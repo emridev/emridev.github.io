@@ -1,7 +1,7 @@
 title: "EmriDev"
 email: emrireal@gmail.com
 timezone: UTC
-baseurl: "https://emridev.github.io"
+baseurl: ""
 permalink: "/:title/"
 logo: ''
 favicon: 'assets/images/favicon.ico'
